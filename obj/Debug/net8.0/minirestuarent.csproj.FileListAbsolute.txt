@@ -1,0 +1,9 @@
+/Users/priyankajampani/projects/minirestuarent/obj/Debug/net8.0/minirestuarent.csproj.AssemblyReference.cache
+/Users/priyankajampani/projects/minirestuarent/obj/Debug/net8.0/minirestuarent.GeneratedMSBuildEditorConfig.editorconfig
+/Users/priyankajampani/projects/minirestuarent/obj/Debug/net8.0/minirestuarent.AssemblyInfoInputs.cache
+/Users/priyankajampani/projects/minirestuarent/obj/Debug/net8.0/minirestuarent.AssemblyInfo.cs
+/Users/priyankajampani/projects/minirestuarent/obj/Debug/net8.0/minirestuarent.csproj.CoreCompileInputs.cache
+/Users/priyankajampani/projects/minirestuarent/obj/Debug/net8.0/minirestuarent.MvcApplicationPartsAssemblyInfo.cache
+/Users/priyankajampani/projects/minirestuarent/obj/Debug/net8.0/minirestuarent.RazorAssemblyInfo.cache
+/Users/priyankajampani/projects/minirestuarent/obj/Debug/net8.0/minirestuarent.RazorAssemblyInfo.cs
+/Users/priyankajampani/projects/minirestuarent/obj/Debug/net8.0/minirestuarent.sourcelink.json

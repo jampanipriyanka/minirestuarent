@@ -1,7 +1,31 @@
+using Microsoft.EntityFrameworkCore;
+using minirestuarent.Data;
+using MySql.Data.MySqlClient;
+using Pomelo.EntityFrameworkCore.MySql.Infrastructure;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+var ConnectionString = builder.Configuration.GetConnectionString("DefaultConnection") ?? throw new InvalidOperationException("Connection string 'defaultconnection' not found. ");
+builder.Services.AddDbContextPool<ApplicationDBContext>(options =>
+     options.UseMySql(ConnectionString, ServerVersion.AutoDetect(ConnectionString)));
+
+// builder.services.AddTransient<MySqlConnection>(_ =>
+//     new MySqlConnection(builder.Configuration.GetConnectionString["server=localhost;port=8889;database=AspApp;user=root;password=root;"]));
+// builder.Services
+//     .AddMySqlDataSource(builder.Configuration.GetConnectionString("mysql")) // using the MySqlConnector.DependencyInjection package
+//     .AddHealthChecks().AddMySql();
+    
+// var mysql = builder.AddMySql("mysql")
+//                    .WithPhpMyAdmin();
+
+// var mysqldb = mysql.AddDatabase("mysqldb");
+
+// var myService = builder.AddProject<Projects.ExampleProject>()
+//                        .WithReference(mysqldb)
+//                        .WaitFor(mysqldb);
 
 var app = builder.Build();
 
