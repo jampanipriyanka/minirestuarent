@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "a/TBqybGggOdEhaCHHbkURI1ddYITDlDFFd7L82NZH8=",
+  "Hash": "NJUVssDMoErYV+3JSOHPjlolFNO2b07+Zh9c0cgaf8s=",
   "Source": "minirestuarent",
   "BasePath": "_content/minirestuarent",
   "Mode": "Default",
@@ -794,12 +794,12 @@
       "OriginalItemSpec": "/Users/priyankajampani/projects/minirestuarent/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "/Users/priyankajampani/projects/minirestuarent/obj/Debug/net9.0/compressed/noizsowi6r-s35ty4nyc5.gz",
+      "Identity": "/Users/priyankajampani/projects/minirestuarent/obj/Debug/net9.0/compressed/noizsowi6r-vxj40690my.gz",
       "SourceId": "minirestuarent",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/priyankajampani/projects/minirestuarent/obj/Debug/net9.0/compressed/",
       "BasePath": "_content/minirestuarent",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap#[.{fingerprint=s35ty4nyc5}]?.css.gz",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap#[.{fingerprint=vxj40690my}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -808,8 +808,8 @@
       "RelatedAsset": "/Users/priyankajampani/projects/minirestuarent/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "lzu6cjurhc",
-      "Integrity": "n8W3VdC4I3veW4VnsbrnEGvARFEgXX9cBa7M89gRvWI=",
+      "Fingerprint": "wnxso7vz1r",
+      "Integrity": "lCIXx7Ht+Eu4GZeEukJibqQbhAVXjMBxnlViM08upF0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/priyankajampani/projects/minirestuarent/wwwroot/lib/bootstrap/dist/css/bootstrap.css"
@@ -1984,8 +1984,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "s35ty4nyc5",
-      "Integrity": "GKEF18s44B5e0MolXAkpkqLiEbOVlKf6VyYr/G/E6pw=",
+      "Fingerprint": "vxj40690my",
+      "Integrity": "86U4kiutDn8PAiT4a2lfCHnSfSL62xHJz5P4t6iS58M=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.css"
@@ -10775,12 +10775,12 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css",
-      "AssetFile": "/Users/priyankajampani/projects/minirestuarent/obj/Debug/net9.0/compressed/noizsowi6r-s35ty4nyc5.gz",
+      "AssetFile": "/Users/priyankajampani/projects/minirestuarent/obj/Debug/net9.0/compressed/noizsowi6r-vxj40690my.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000030073379"
+          "Quality": "0.000029375477"
         }
       ],
       "ResponseHeaders": [
@@ -10790,15 +10790,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "33251"
+          "Value": "34041"
         },
         {
           "Name": "ETag",
-          "Value": "\"n8W3VdC4I3veW4VnsbrnEGvARFEgXX9cBa7M89gRvWI=\""
+          "Value": "\"lCIXx7Ht+Eu4GZeEukJibqQbhAVXjMBxnlViM08upF0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 02 Apr 2025 20:40:45 GMT"
+          "Value": "Thu, 08 May 2025 13:37:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10818,13 +10818,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"GKEF18s44B5e0MolXAkpkqLiEbOVlKf6VyYr/G/E6pw=\""
+          "Value": "W/\"86U4kiutDn8PAiT4a2lfCHnSfSL62xHJz5P4t6iS58M=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-GKEF18s44B5e0MolXAkpkqLiEbOVlKf6VyYr/G/E6pw="
+          "Value": "sha256-86U4kiutDn8PAiT4a2lfCHnSfSL62xHJz5P4t6iS58M="
         }
       ]
     },
@@ -10839,7 +10839,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "281046"
+          "Value": "282893"
         },
         {
           "Name": "Content-Type",
@@ -10847,11 +10847,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"GKEF18s44B5e0MolXAkpkqLiEbOVlKf6VyYr/G/E6pw=\""
+          "Value": "\"86U4kiutDn8PAiT4a2lfCHnSfSL62xHJz5P4t6iS58M=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 02 Apr 2025 20:40:45 GMT"
+          "Value": "Thu, 08 May 2025 13:37:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10861,13 +10861,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-GKEF18s44B5e0MolXAkpkqLiEbOVlKf6VyYr/G/E6pw="
+          "Value": "sha256-86U4kiutDn8PAiT4a2lfCHnSfSL62xHJz5P4t6iS58M="
         }
       ]
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css.gz",
-      "AssetFile": "/Users/priyankajampani/projects/minirestuarent/obj/Debug/net9.0/compressed/noizsowi6r-s35ty4nyc5.gz",
+      "AssetFile": "/Users/priyankajampani/projects/minirestuarent/obj/Debug/net9.0/compressed/noizsowi6r-vxj40690my.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10876,7 +10876,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "33251"
+          "Value": "34041"
         },
         {
           "Name": "Content-Type",
@@ -10884,11 +10884,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"n8W3VdC4I3veW4VnsbrnEGvARFEgXX9cBa7M89gRvWI=\""
+          "Value": "\"lCIXx7Ht+Eu4GZeEukJibqQbhAVXjMBxnlViM08upF0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 02 Apr 2025 20:40:45 GMT"
+          "Value": "Thu, 08 May 2025 13:37:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10906,7 +10906,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-n8W3VdC4I3veW4VnsbrnEGvARFEgXX9cBa7M89gRvWI="
+          "Value": "sha256-lCIXx7Ht+Eu4GZeEukJibqQbhAVXjMBxnlViM08upF0="
         }
       ]
     },
@@ -11233,7 +11233,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 02 Apr 2025 20:40:45 GMT"
+          "Value": "Wed, 07 May 2025 13:56:33 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11294,7 +11294,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 02 Apr 2025 20:40:45 GMT"
+          "Value": "Wed, 07 May 2025 13:56:33 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11339,7 +11339,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 02 Apr 2025 20:40:45 GMT"
+          "Value": "Wed, 07 May 2025 13:56:33 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11394,7 +11394,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 02 Apr 2025 20:40:45 GMT"
+          "Value": "Wed, 07 May 2025 13:56:33 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11447,7 +11447,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 02 Apr 2025 20:40:45 GMT"
+          "Value": "Wed, 07 May 2025 13:56:33 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11484,7 +11484,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 02 Apr 2025 20:40:45 GMT"
+          "Value": "Wed, 07 May 2025 13:56:33 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12997,13 +12997,13 @@
       ]
     },
     {
-      "Route": "lib/bootstrap/dist/css/bootstrap.s35ty4nyc5.css",
-      "AssetFile": "/Users/priyankajampani/projects/minirestuarent/obj/Debug/net9.0/compressed/noizsowi6r-s35ty4nyc5.gz",
+      "Route": "lib/bootstrap/dist/css/bootstrap.vxj40690my.css",
+      "AssetFile": "/Users/priyankajampani/projects/minirestuarent/obj/Debug/net9.0/compressed/noizsowi6r-vxj40690my.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000030073379"
+          "Quality": "0.000029375477"
         }
       ],
       "ResponseHeaders": [
@@ -13013,15 +13013,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "33251"
+          "Value": "34041"
         },
         {
           "Name": "ETag",
-          "Value": "\"n8W3VdC4I3veW4VnsbrnEGvARFEgXX9cBa7M89gRvWI=\""
+          "Value": "\"lCIXx7Ht+Eu4GZeEukJibqQbhAVXjMBxnlViM08upF0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 02 Apr 2025 20:40:45 GMT"
+          "Value": "Thu, 08 May 2025 13:37:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13041,13 +13041,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"GKEF18s44B5e0MolXAkpkqLiEbOVlKf6VyYr/G/E6pw=\""
+          "Value": "W/\"86U4kiutDn8PAiT4a2lfCHnSfSL62xHJz5P4t6iS58M=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "s35ty4nyc5"
+          "Value": "vxj40690my"
         },
         {
           "Name": "label",
@@ -13055,12 +13055,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-GKEF18s44B5e0MolXAkpkqLiEbOVlKf6VyYr/G/E6pw="
+          "Value": "sha256-86U4kiutDn8PAiT4a2lfCHnSfSL62xHJz5P4t6iS58M="
         }
       ]
     },
     {
-      "Route": "lib/bootstrap/dist/css/bootstrap.s35ty4nyc5.css",
+      "Route": "lib/bootstrap/dist/css/bootstrap.vxj40690my.css",
       "AssetFile": "/Users/priyankajampani/projects/minirestuarent/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -13070,7 +13070,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "281046"
+          "Value": "282893"
         },
         {
           "Name": "Content-Type",
@@ -13078,11 +13078,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"GKEF18s44B5e0MolXAkpkqLiEbOVlKf6VyYr/G/E6pw=\""
+          "Value": "\"86U4kiutDn8PAiT4a2lfCHnSfSL62xHJz5P4t6iS58M=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 02 Apr 2025 20:40:45 GMT"
+          "Value": "Thu, 08 May 2025 13:37:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13092,7 +13092,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "s35ty4nyc5"
+          "Value": "vxj40690my"
         },
         {
           "Name": "label",
@@ -13100,13 +13100,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-GKEF18s44B5e0MolXAkpkqLiEbOVlKf6VyYr/G/E6pw="
+          "Value": "sha256-86U4kiutDn8PAiT4a2lfCHnSfSL62xHJz5P4t6iS58M="
         }
       ]
     },
     {
-      "Route": "lib/bootstrap/dist/css/bootstrap.s35ty4nyc5.css.gz",
-      "AssetFile": "/Users/priyankajampani/projects/minirestuarent/obj/Debug/net9.0/compressed/noizsowi6r-s35ty4nyc5.gz",
+      "Route": "lib/bootstrap/dist/css/bootstrap.vxj40690my.css.gz",
+      "AssetFile": "/Users/priyankajampani/projects/minirestuarent/obj/Debug/net9.0/compressed/noizsowi6r-vxj40690my.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13115,7 +13115,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "33251"
+          "Value": "34041"
         },
         {
           "Name": "Content-Type",
@@ -13123,11 +13123,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"n8W3VdC4I3veW4VnsbrnEGvARFEgXX9cBa7M89gRvWI=\""
+          "Value": "\"lCIXx7Ht+Eu4GZeEukJibqQbhAVXjMBxnlViM08upF0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 02 Apr 2025 20:40:45 GMT"
+          "Value": "Thu, 08 May 2025 13:37:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13145,7 +13145,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "s35ty4nyc5"
+          "Value": "vxj40690my"
         },
         {
           "Name": "label",
@@ -13153,7 +13153,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-n8W3VdC4I3veW4VnsbrnEGvARFEgXX9cBa7M89gRvWI="
+          "Value": "sha256-lCIXx7Ht+Eu4GZeEukJibqQbhAVXjMBxnlViM08upF0="
         }
       ]
     },
